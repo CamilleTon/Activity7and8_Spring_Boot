@@ -1,1 +1,1 @@
-# Activity7and8_Spring_Boot
+# Activity6_Advanced_Aggregate_Functions
