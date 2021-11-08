@@ -1,0 +1,151 @@
+PUT http://localhost:8080/api/v1/student/1?name=Maria&email=maria@gmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2021-11-07T200944.500.json
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+###
+
+DELETE http://localhost:8080/api/v1/student/1
+
+<> 2021-11-07T200725.404.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+<> 2021-11-07T195448.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+<> 2021-11-07T195219.500.json
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Bilal",
+  "email": "bilal.ahmed@gmail.com",
+  "dob": "1995-12-17"
+}
+
+###
+
